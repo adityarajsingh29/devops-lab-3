@@ -2,7 +2,7 @@
 
 **DevOps and Automation Lab**  
 **Student:** Aditya Raj Singh | **GitHub:** `adityarajsingh29`    
-**Repository:** [axdy02/devops-lab3](https://github.com/adityarajsingh29/devops-lab-3)
+**Repository:** [https://github.com/adityarajsingh29/devops-lab-3]
 
 An evidence-backed record of infrastructure configuration, local provisioning, monitoring, centralized logging, pipeline security scanning, feature flags, load testing and browser automation.
 
